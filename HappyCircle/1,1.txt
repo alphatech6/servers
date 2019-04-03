@@ -1,2 +1,4 @@
 #server1"mapData"
-
+//those data are secret
+//do not copy or read them
+:server1:
